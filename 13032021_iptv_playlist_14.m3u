@@ -1,0 +1,457 @@
+#EXTM3U url-tvg="http://mw.prosto.tv/jtv_utc2.zip" deinterlace="1" cache="500"
+#EXTINF:-1 group-title="Промо" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00241.png", Prosto.TV
+http://iptv.prosto.tv:7000/ch300/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Віасат VIP" tvg-shift="+3" tvg-name="ViP_Megahit_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00250.png", VIP Megahit HD
+http://iptv.prosto.tv:7000/ch43/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Віасат VIP" tvg-shift="+3" tvg-name="ViP_Comedy_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00249.png", VIP Comedy HD
+http://iptv.prosto.tv:7000/ch44/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Віасат VIP" tvg-shift="+3" tvg-name="ViP_Premiere_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00251.png", VIP Premiere HD
+http://iptv.prosto.tv:7000/ch45/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Віасат VIP" tvg-shift="+3" tvg-name="Viasat_Nature_History_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00247.jpg", VIP Viasat Nature/History HD
+http://iptv.prosto.tv:7000/ch83/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Віасат VIP" tvg-shift="+3" tvg-name="Viasat_Sport_Rossiya_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00248.png", VIP Viasat Sport HD
+http://iptv.prosto.tv:7000/ch108/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="PlyusPlyus" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/plusplus.png", ПлюсПлюс
+http://iptv.prosto.tv:7000/ch66/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="Piksyel" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00064.jpg", Піксель
+http://iptv.prosto.tv:7000/ch67/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="Nickelodeon_SNG" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Nickelodeon.png", Nickelodeon
+http://iptv.prosto.tv:7000/ch68/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="Nick_Jr" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00306.png", Nick Jr
+http://iptv.prosto.tv:7000/ch69/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00305.png", Nicktoons
+http://iptv.prosto.tv:7000/ch70/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00274.jpg", NIKI Kids HD
+http://iptv.prosto.tv:7000/ch71/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00273.jpg", NIKI Junior HD
+http://iptv.prosto.tv:7000/ch72/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="TiJi_Rossiya" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Tiji.png", Tiji
+http://iptv.prosto.tv:7000/ch73/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="Gulli_Girl" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00198.jpg", Gulli Girl
+http://iptv.prosto.tv:7000/ch74/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="Dyetskiy_mir" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00066.jpg", Детский Мир
+http://iptv.prosto.tv:7000/ch75/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="Malyatko_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/malatko.png", Малятко ТВ
+http://iptv.prosto.tv:7000/ch76/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="Lale" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/LaLe.png", LaLe
+http://iptv.prosto.tv:7000/ch77/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-name="Da_Vinci_Learning_Europe" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/DaVinci.png", Da Vinci
+http://iptv.prosto.tv:7000/ch78/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00276.jpg", НАШЕ Kids HD
+http://iptv.prosto.tv:7000/ch79/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00324.png", Cartoon Network
+http://iptv.prosto.tv:7000/ch207/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00325.png", Boomerang
+http://iptv.prosto.tv:7000/ch208/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00332.jpg", Смайлик
+http://iptv.prosto.tv:7000/ch215/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Дитяче" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00317.png", МультStream
+http://iptv.prosto.tv:7000/ch320/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="UA_Pyershiy_sputnik" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00239.png", UA Перший HD
+http://iptv.prosto.tv:7000/ch19/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="5_kanal" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/5ch.png", 5 канал
+http://iptv.prosto.tv:7000/ch20/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Rada" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/rada.png", Рада
+http://iptv.prosto.tv:7000/ch21/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="112_Ukraina_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/112ch.png", 112 HD
+http://iptv.prosto.tv:7000/ch22/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="NewsOne_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/NewsoneHD.png", Newsone HD
+http://iptv.prosto.tv:7000/ch23/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Pryamoy" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/pryamoi.png", Прямий
+http://iptv.prosto.tv:7000/ch24/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="24_Tyelyekanal_novostyey_24" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/news24.png", Телеканал новин 24
+http://iptv.prosto.tv:7000/ch25/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Kiyev" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00028.png", ТК Київ
+http://iptv.prosto.tv:7000/ch26/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Maxxi-TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00047.png", НАШ
+http://iptv.prosto.tv:7000/ch27/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="ZIK" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ZIK.png", ZIK
+http://iptv.prosto.tv:7000/ch28/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="CHP_INFO" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/CPInfo.png", ЧП Info
+http://iptv.prosto.tv:7000/ch29/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="UNIAN_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Unian.png", УНІАН
+http://iptv.prosto.tv:7000/ch30/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="OstWest" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ostwest.png", OstWest
+http://iptv.prosto.tv:7000/ch31/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Euronews_russkiy" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/euronews.png", Euronews
+http://iptv.prosto.tv:7000/ch32/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="PravdaTUT" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00290.png", Правда ТУТ
+http://iptv.prosto.tv:7000/ch33/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Gromadskye" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/HromadskeTV.png", Hromadske TV
+http://iptv.prosto.tv:7000/ch34/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Rabinovich_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/rabinovich.png", RABINOVICH TV
+http://iptv.prosto.tv:7000/ch35/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="YEspryeso_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/espressoTV.png", Espresso HD
+http://iptv.prosto.tv:7000/ch36/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Pyervyy_dyelovoy" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/1delovoy.png", Перший Діловий
+http://iptv.prosto.tv:7000/ch37/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Byelarus_24" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Belerus24.png", Беларусь 24
+http://iptv.prosto.tv:7000/ch38/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Nastoyashchyeye_vryemya" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/nastoyaheevremiy.png", Настоящее время
+http://iptv.prosto.tv:7000/ch39/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="ATR" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ATR.png", ATR
+http://iptv.prosto.tv:7000/ch40/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="France_24_Francais" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/France24.png", France 24
+http://iptv.prosto.tv:7000/ch41/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="English_Club_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00110.png", ENGLISH CLUB TV
+http://iptv.prosto.tv:7000/ch42/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="MostVideo" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00204.png", MostvideoTV
+http://iptv.prosto.tv:7000/ch119/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="UA_Pyershiy_sputnik" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/era.png", UA Перший
+http://iptv.prosto.tv:7000/ch153/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="112_Ukraina" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/112ch.png", 112 Україна
+http://iptv.prosto.tv:7000/ch154/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="NewsOne" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/NewsOne.png", News One
+http://iptv.prosto.tv:7000/ch155/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="YEspryeso_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/espressoTV.png", Еспресо TV
+http://iptv.prosto.tv:7000/ch156/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="TSyentralnyy_kanal" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00029.jpg", UA Київ
+http://iptv.prosto.tv:7000/ch165/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/zoom.png", Zoom / Orion
+http://iptv.prosto.tv:7000/ch167/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00070.png", Сварожичи
+http://iptv.prosto.tv:7000/ch168/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="8_kanal_Ukraina" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/8ch.png", 8 Канал
+http://iptv.prosto.tv:7000/ch169/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Donbass" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/UADonbas.png", Донбасс
+http://iptv.prosto.tv:7000/ch170/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/belsattv.jpg", БелСат
+http://iptv.prosto.tv:7000/ch171/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="CHyernomorskaya_TRK" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/chernomor.png", Черноморская ТРК
+http://iptv.prosto.tv:7000/ch172/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00287.png", ПЕРШИЙ КИЇВСЬКИЙ
+http://iptv.prosto.tv:7000/ch173/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Pyershiy_Zahidniy" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/1zahidniy.png", Перший Захiдний
+http://iptv.prosto.tv:7000/ch174/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00286.jpg", GENUINE TV
+http://iptv.prosto.tv:7000/ch175/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="34_kanal_Dnyepr" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/34ch.png", 34 канал
+http://iptv.prosto.tv:7000/ch181/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="4_kanal" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/4kanal.jpg", 4 Канал
+http://iptv.prosto.tv:7000/ch182/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="TV5_Zaporozhye" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/TV5.png", ТВ-5
+http://iptv.prosto.tv:7000/ch183/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="VITA" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00170.png", ВІТА
+http://iptv.prosto.tv:7000/ch184/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00140.jpg", Атлант
+http://iptv.prosto.tv:7000/ch185/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="UA_Dnyepr" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00135.png", UA ДНІПРО
+http://iptv.prosto.tv:7000/ch186/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/UAZaporrija.png", UA Запоріжжя
+http://iptv.prosto.tv:7000/ch187/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="UA_Vinnitsya" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00171.png", UA Вінниця
+http://iptv.prosto.tv:7000/ch188/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="UA_Krim" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00163.png", UA Крим
+http://iptv.prosto.tv:7000/ch189/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="UA_Zakarpattya" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/uaZakarpatiy.png", UA:Закарпаття
+http://iptv.prosto.tv:7000/ch190/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="UA_Donbas" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/UADonbas.png", UA Донбасс
+http://iptv.prosto.tv:7000/ch191/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00300.jpg", Правда ТУТ ЛЬВІВ
+http://iptv.prosto.tv:7000/ch192/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Vinnichina.png", ТРК Вінниччина
+http://iptv.prosto.tv:7000/ch193/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="ALYEKS" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Alextv.png", ТРК Алекс
+http://iptv.prosto.tv:7000/ch194/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/rudana.png", Рудана
+http://iptv.prosto.tv:7000/ch195/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/MST.jpg", МСТ Марганец
+http://iptv.prosto.tv:7000/ch196/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/UR1.png", Перший канал Українського радіо
+http://iptv.prosto.tv:7000/ch197/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/UR2.png", UR2 - Радио
+http://iptv.prosto.tv:7000/ch198/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/UR3.png", UR3 - Радио
+http://iptv.prosto.tv:7000/ch199/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="NavigatorTV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00257.png", Навигатор ТВ
+http://iptv.prosto.tv:7000/ch200/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Natali" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/natali.png", Наталі
+http://iptv.prosto.tv:7000/ch201/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-name="Travel_Guide-TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00298.jpg", TRAVEL GUIDE-TV
+http://iptv.prosto.tv:7000/ch202/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00330.jpg", WNESSTV HD
+http://iptv.prosto.tv:7000/ch213/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00331.png", Armenia 1 TV
+http://iptv.prosto.tv:7000/ch214/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00219.png", OBOZ TV
+http://iptv.prosto.tv:7000/ch217/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00335.jpg", Дитинець
+http://iptv.prosto.tv:7000/ch218/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00336.png", Донеччина TV
+http://iptv.prosto.tv:7000/ch219/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00337.png", Відкритий
+http://iptv.prosto.tv:7000/ch220/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00338.png", UA: БУКОВИНА
+http://iptv.prosto.tv:7000/ch221/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00339.jpg", [демо] Возрождение ТВ
+http://iptv.prosto.tv:7000/ch222/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00295.jpg", Катастрофа ONLINE
+http://iptv.prosto.tv:7000/ch312/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00302.jpg", ЕкоСистема
+http://iptv.prosto.tv:7000/ch316/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00318.png", Stream CITY
+http://iptv.prosto.tv:7000/ch321/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційно-розважальний" tvg-shift="+3" tvg-name="1plus1" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/1p1.png", Канал 1+1
+http://iptv.prosto.tv:7000/ch1/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційно-розважальний" tvg-shift="+3" tvg-name="ICTV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ICTV.png", ICTV
+http://iptv.prosto.tv:7000/ch2/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційно-розважальний" tvg-shift="+3" tvg-name="Ukraina" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/trkUkraina.png", Канал УКРАЇНА
+http://iptv.prosto.tv:7000/ch3/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційно-розважальний" tvg-shift="+3" tvg-name="STB" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/stb.png", СТБ
+http://iptv.prosto.tv:7000/ch4/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційно-розважальний" tvg-shift="+3" tvg-name="Intyer" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/2inter.png", Інтер
+http://iptv.prosto.tv:7000/ch5/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційно-розважальний" tvg-shift="+3" tvg-name="Novyy_kanal" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/novy.png", Новий канал
+http://iptv.prosto.tv:7000/ch6/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інформаційно-розважальний" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00293.jpg", ТрансМІСІЯ
+http://iptv.prosto.tv:7000/ch311/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Fashion_TV_Europe" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/FashionTV.png", Fashion TV
+http://iptv.prosto.tv:7000/ch143/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="FashionBox_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/FashionBoxHD.png", FashionBox HD
+http://iptv.prosto.tv:7000/ch144/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Fashion_One" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00197.png", Fashion One
+http://iptv.prosto.tv:7000/ch145/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="HDFASHION_and_Lifestyle" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00261.png", HDFASHION and Lifestyle
+http://iptv.prosto.tv:7000/ch146/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Glas" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Glas.png", Глас
+http://iptv.prosto.tv:7000/ch147/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Nadiya" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Nadia.png", Надія
+http://iptv.prosto.tv:7000/ch148/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="CNL_Ukraina" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/CNL.png", CNL
+http://iptv.prosto.tv:7000/ch149/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Epoque" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00072.jpg", Эпоха
+http://iptv.prosto.tv:7000/ch150/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Dacha" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Dacha.png", Дача
+http://iptv.prosto.tv:7000/ch151/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="UA_Kultura" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/UAKultura.png", UA Культура
+http://iptv.prosto.tv:7000/ch152/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Milady_Television" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/MiladyTelevision.png", Milady Television
+http://iptv.prosto.tv:7000/ch176/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="KRT" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/KRT.png", КРТ
+http://iptv.prosto.tv:7000/ch177/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Vintazh" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Vintage.png", Вінтаж
+http://iptv.prosto.tv:7000/ch178/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00048.png", Украина 24
+http://iptv.prosto.tv:7000/ch179/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-name="Karavan_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/KaravanTV.png", Караван ТВ
+http://iptv.prosto.tv:7000/ch180/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00307.jpg", RELAXON
+http://iptv.prosto.tv:7000/ch317/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Інше" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00310.jpg", КАМІН
+http://iptv.prosto.tv:7000/ch318/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="TV1000_East" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/TV1000.png", TV 1000
+http://iptv.prosto.tv:7000/ch46/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="TV1000_Action_East" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/TV1000Action.png", TV 1000 Action
+http://iptv.prosto.tv:7000/ch47/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="TV1000_World_Kino" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/TV1000WorldKino.png", TV 1000 World Kino
+http://iptv.prosto.tv:7000/ch48/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="ViP_Comedy" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/vipcomedy.png", VIP Comedy
+http://iptv.prosto.tv:7000/ch49/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Hollywood_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Hollywoodhd.jpg", Hollywood HD
+http://iptv.prosto.tv:7000/ch50/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Bolt" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Bolt.png", Болт
+http://iptv.prosto.tv:7000/ch53/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Enter-film" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/15.png", Enter-фільм
+http://iptv.prosto.tv:7000/ch54/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Spike" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00240.jpg", Spike
+http://iptv.prosto.tv:7000/ch55/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Star_Cinema" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/StarCinema.png", Star Cinema
+http://iptv.prosto.tv:7000/ch56/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Star_Family" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/StarFamily.png", Star Family
+http://iptv.prosto.tv:7000/ch57/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Nashye_lyubimoye_kino" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/NasheLubimoeKino.png", Наше любимое кино
+http://iptv.prosto.tv:7000/ch58/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Film_Ua_Drama" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/FilmUaDrama.png", Film.Ua Drama
+http://iptv.prosto.tv:7000/ch59/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Paramount_Comedy_Ukraina" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/paramount.jpg", Paramount Comedy
+http://iptv.prosto.tv:7000/ch60/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Bollywood_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/BollywoodHD.png", Bollywood HD
+http://iptv.prosto.tv:7000/ch61/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00265.jpg", Kino 1
+http://iptv.prosto.tv:7000/ch62/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="FilmBox_ArtHouse" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00111.png", FilmBox Arthouse
+http://iptv.prosto.tv:7000/ch63/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="FilmBox_Russia" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00109.png", FilmBox
+http://iptv.prosto.tv:7000/ch64/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Kvartal_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/KvartalTV.png", Квартал ТВ
+http://iptv.prosto.tv:7000/ch65/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Hollywood" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00200.jpg", Hollywood
+http://iptv.prosto.tv:7000/ch157/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-name="Paramount_channel_Rossiya" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00303.png", Paramount Channel
+http://iptv.prosto.tv:7000/ch203/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00320.jpg", Sony Channel
+http://iptv.prosto.tv:7000/ch204/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00321.jpg", Sony Sci-Fi
+http://iptv.prosto.tv:7000/ch205/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00322.jpg", Sony Turbo
+http://iptv.prosto.tv:7000/ch206/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00326.png", AMC
+http://iptv.prosto.tv:7000/ch209/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Кіно" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00323.png", ТрейлерON
+http://iptv.prosto.tv:7000/ch323/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="M1" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/m1.png", М1
+http://iptv.prosto.tv:7000/ch122/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="M2" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/m2.png", М2
+http://iptv.prosto.tv:7000/ch123/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00311.jpg", MTV Europe
+http://iptv.prosto.tv:7000/ch124/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="MTV_Dance_International" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/MTVDance.png", MTV Dance
+http://iptv.prosto.tv:7000/ch125/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="MTV_Hits_International" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/MTVHits.png", MTV Hit
+http://iptv.prosto.tv:7000/ch126/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="MTV_Rocks_International" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00262.png", MTV Rock
+http://iptv.prosto.tv:7000/ch127/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00312.png", MTV Live HD
+http://iptv.prosto.tv:7000/ch128/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="VH1_Europe" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/VH1.png", VH 1 European
+http://iptv.prosto.tv:7000/ch129/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="VH1_Classic_Europe" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00263.png", VH 1 Classic
+http://iptv.prosto.tv:7000/ch130/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="MusicBox_UA" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/MusicBOXUA.png", Music Box UA
+http://iptv.prosto.tv:7000/ch131/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="4ever_music" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00271.png", 4EVER
+http://iptv.prosto.tv:7000/ch132/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="OTV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/OTV.png", O-TV
+http://iptv.prosto.tv:7000/ch133/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="EU_Music_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00272.png", EUMUSIC
+http://iptv.prosto.tv:7000/ch134/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00243.png", Наше Music HD
+http://iptv.prosto.tv:7000/ch135/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/nashe_HD.jpg", НАШЕ HD
+http://iptv.prosto.tv:7000/ch136/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="MCM_Top" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Mcm.png", Mcm top
+http://iptv.prosto.tv:7000/ch137/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="Ethno_Channel" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/etnochannel.jpg", Ethno HD
+http://iptv.prosto.tv:7000/ch138/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="Mezzo" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Mezzo.png", Mezzo
+http://iptv.prosto.tv:7000/ch139/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-name="Mezzo_Live_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/MezzoLiveHD.png", Mezzo Live HD
+http://iptv.prosto.tv:7000/ch140/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/360TuneBox.png", 360 Tune Box
+http://iptv.prosto.tv:7000/ch141/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00258.jpg", Наше Music 4K
+http://iptv.prosto.tv:7000/ch142/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00327.png", DELUXE MUSIC HD
+http://iptv.prosto.tv:7000/ch210/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00328.jpg", RCK TV
+http://iptv.prosto.tv:7000/ch211/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музика" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00329.png", DELUXE LOUNGE HD
+http://iptv.prosto.tv:7000/ch212/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Viasat_Nature_CEE" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ViasatNature.png", Viasat Nature
+http://iptv.prosto.tv:7000/ch84/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Viasat_Explore_CEE" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ViasatExplorer.png", Viasat Explore
+http://iptv.prosto.tv:7000/ch85/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Viasat_History" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ViasatHistory.png", Viasat History
+http://iptv.prosto.tv:7000/ch86/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="History_Rossiya_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00275.jpg", History
+http://iptv.prosto.tv:7000/ch87/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Trofyey" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00194.png", Трофей HD
+http://iptv.prosto.tv:7000/ch89/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Nauka" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Nauka.png", Наука
+http://iptv.prosto.tv:7000/ch90/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Epoque" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00279.jpg", Эпоха HD
+http://iptv.prosto.tv:7000/ch91/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Dacha_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00277.png", Дача HD
+http://iptv.prosto.tv:7000/ch92/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="DocuBox_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/DocuBoxHD.png", DocuBox HD
+http://iptv.prosto.tv:7000/ch93/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Fauna" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/fauna.png", Фауна
+http://iptv.prosto.tv:7000/ch95/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Eko-TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/EkoTV.png", Эко-ТВ
+http://iptv.prosto.tv:7000/ch97/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="36_6_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00260.png", 36.6
+http://iptv.prosto.tv:7000/ch98/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00341.png", Travel TV
+http://iptv.prosto.tv:7000/ch99/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00184.jpg", Travel TV International HD
+http://iptv.prosto.tv:7000/ch100/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-name="Tyerra" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00073.jpg", Терра
+http://iptv.prosto.tv:7000/ch101/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00297.jpg", Space Stream
+http://iptv.prosto.tv:7000/ch314/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00301.jpg", ПРО-ФАКТ
+http://iptv.prosto.tv:7000/ch315/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Наука" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00314.jpg", ZOO Stream
+http://iptv.prosto.tv:7000/ch319/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="TYET" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/tet.png", ТЕТ
+http://iptv.prosto.tv:7000/ch7/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="2plus2" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/2p2.png", Канал 2+2
+http://iptv.prosto.tv:7000/ch8/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="K1" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/K1.png", К1
+http://iptv.prosto.tv:7000/ch9/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="K2" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/k2.png", К2
+http://iptv.prosto.tv:7000/ch10/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Myega" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/mega.png", Мега
+http://iptv.prosto.tv:7000/ch11/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="NTN" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/NTN.png", НТН
+http://iptv.prosto.tv:7000/ch12/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Zoom" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/zoom.png", Zoom
+http://iptv.prosto.tv:7000/ch13/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="NLO_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/NLO.png", НЛО ТБ
+http://iptv.prosto.tv:7000/ch14/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Indigo" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Indigo.png", Індиго
+http://iptv.prosto.tv:7000/ch15/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Bigudi" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/bigudi.png", Бігуді ТВ
+http://iptv.prosto.tv:7000/ch16/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Sontsye" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/solnceua.png", Сонце
+http://iptv.prosto.tv:7000/ch17/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Otsye" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/OCE.png", Оце
+http://iptv.prosto.tv:7000/ch18/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Quiz_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00270.jpg", Quiz TV
+http://iptv.prosto.tv:7000/ch102/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00304.jpg", Кус-Кус
+http://iptv.prosto.tv:7000/ch103/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Trofyey" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/trofeySD.png", Трофей
+http://iptv.prosto.tv:7000/ch158/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-name="Tyelyevsyesvit" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Televsesvit.png", Телевсесвіт
+http://iptv.prosto.tv:7000/ch166/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00333.png", JUKEBOX
+http://iptv.prosto.tv:7000/ch216/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00291.jpg", АкваSTREAM
+http://iptv.prosto.tv:7000/ch310/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00319.png", Prosto GAME
+http://iptv.prosto.tv:7000/ch322/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Розваги" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00334.jpg", RecreatiON
+http://iptv.prosto.tv:7000/ch324/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00316.png", Рибалка
+http://iptv.prosto.tv:7000/ch88/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Futbol_3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00315.gif", Футбол 3
+http://iptv.prosto.tv:7000/ch105/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Setanta_Sports_1" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00313.png", Setanta
+http://iptv.prosto.tv:7000/ch106/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Chelsea_TV" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00264.png", Sport 1 HD
+http://iptv.prosto.tv:7000/ch107/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Xsport" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Xsport.png", Xsport
+http://iptv.prosto.tv:7000/ch109/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Xsport_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/Xsport.png", XSport HD
+http://iptv.prosto.tv:7000/ch110/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Sport_1" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00266.png", Спорт 1
+http://iptv.prosto.tv:7000/ch113/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Sport_1_Baltic" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00267.png", Спорт 1 Baltic
+http://iptv.prosto.tv:7000/ch114/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Sport_2" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00268.png", Спорт 2
+http://iptv.prosto.tv:7000/ch115/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Sport_2_Baltic" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00269.png", Спорт 2 Baltic
+http://iptv.prosto.tv:7000/ch116/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Extreme_sports" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00089.png", Extreme Sports
+http://iptv.prosto.tv:7000/ch117/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="FightBox_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00087.png", FightBox HD
+http://iptv.prosto.tv:7000/ch118/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="FastandFunBox_HD" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/FastFunBoxHD.png", Fast & FunBox HD
+http://iptv.prosto.tv:7000/ch120/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Pyervyy_avtomobilnyy" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00278.png", Перший Автомобільний HD
+http://iptv.prosto.tv:7000/ch121/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Viasat_Sport_Rossiya" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/viasat-sport.jpg", Viasat Sport
+http://iptv.prosto.tv:7000/ch163/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-name="Pyervyy_avtomobilnyy" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00096.png", Перший Автомобільний
+http://iptv.prosto.tv:7000/ch164/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00296.jpg", X-Stream
+http://iptv.prosto.tv:7000/ch313/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ХХХ - Для дорослих" tvg-shift="+3" tvg-name="Erox_dlya_Ukrainy" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00283.png", [демо] Erox 24CH
+http://iptv.prosto.tv:7000/ch159/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ХХХ - Для дорослих" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00294.png", [демо] Play Boy
+http://iptv.prosto.tv:7000/ch160/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ХХХ - Для дорослих" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00281.png", [демо] Hustler 24CH
+http://iptv.prosto.tv:7000/ch161/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ХХХ - Для дорослих" tvg-shift="+3" tvg-logo="https://storage.freeutg.com/static/iptv/channels/logo/ch00292.png", [демо] Barely Legal TV 24 CH
+http://iptv.prosto.tv:7000/ch162/tracks-v1a1/index.m3u8

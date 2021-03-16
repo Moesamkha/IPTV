@@ -1,0 +1,1228 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Qb7Wf5F/BS.png",BelSat
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Эфирные 
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1 group-title="Эфирные",Dozd' 
+http://spacetv.in/stream/DIPK8H19CP8/210.m3u8
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/M2zBxgw/26-VTV.png",BTB
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Эфирные
+https://mfe.svc.ott.zala.by/hls/CRCQFRNUFJ_HLS/variant.m3u8?version=2
+
+
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7" timeshift="7",CTC HD
+#EXTGRP:Эфирные
+http://spacetv.in/stream/DIPK8H19CP8/138.m3u8
+#EXTINF:-1 group-title="Эфирные" tvg-rec="7" timeshift="7",CTC Love
+#EXTGRP:Эфирные
+http://spacetv.in/stream/DIPK8H19CP8/183.m3u8
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wBn27BH/54-Euronews.png",Euronews
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Новости
+https://mfe.svc.ott.zala.by/hls/C5P6YOXJZT_HLS/variant.m3u8?version=2
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Кино",Amedia PREMIUM
+http://5.128.254.228:81/udp/239.1.14.1:1234					
+#EXTINF:-1 group-title="Кино",TV1000 World Kino
+http://195.189.105.158:9050/121/index.m3u8
+#EXTINF:-1 group-title="Кино",Sierial UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Kino UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",Russkij Ekstrim UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино",Kino TB
+http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Domasnij
+http://51.195.44.53:8081/tv/domashniy/playlist.m3u8
+#EXTINF:-1 group-title="Кино",Fantastika Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:0 group-title="Кино",PARAMOUNT CHANNEL
+#EXTGRP:Кино
+http://109.200.130.124:7000/play/a00m
+#EXTINF:0 group-title="Кино",PARAMOUNT COMEDY
+#EXTGRP:Кино
+http://109.111.191.108/239.211.211.73/stream.m3u8
+#EXTINF:0 group-title="Кино",SPIKE
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/304.m3u8
+#EXTINF:-1 group-title="Кино",VIP MEGAHIT HD
+http://spacetv.in/stream/DIPK8H19CP8/200.m3u8
+#EXTINF:-1 group-title="Кино",SONY TURBO
+http://spacetv.in/stream/DIPK8H19CP8/263.m3u8
+#EXTINF:-1 group-title="Кино",STAR CINEMA HD
+http://spacetv.in/stream/DIPK8H19CP8/310.m3u8
+#EXTINF:-1 group-title="Кино",TV1000 ACTION  HD
+http://spacetv.in/stream/DIPK8H19CP8/100.m3u8
+#EXTINF:0 group-title="Кино",VIP PREMIERE HD
+#EXTGRP:Кино
+http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:-1,Shot
+#EXTGRP:Кино
+http://37.17.14.149:8905/play/a00m
+#EXTINF:-1,Sokirujescieje HD
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
+#EXTINF:-1,Komiedijnoje HD
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
+
+
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Kinokomiedija
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/265.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Ostrosiuzietnoje HD
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/214.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Kinouzas HD
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/278.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Comedy HD
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/201.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",ViP Serial HD
+#EXTGRP:Кино
+http://spacetv.in/stream/DIPK8H19CP8/311.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/2tQcTtj/80-Ohotnik-i-rybolov.png",Ochotnik i rybolov HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/4FDNBEDGFV_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BgtWkBd/docubox-hd.png",DocuBox HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_DOCUBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/x2jQMqf/103-Moja-Planeta.png",Moja planieta
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/FV47BRVQW4_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/dDtYBfr/59-Drajv.png",Drajv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/6UTCEG6ATO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/cvKYWFL/61-Ohota-i-Rybalka.png",Ochota i rybalka
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/VF5ELDF8AL_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/yyW6QW4/52-History.png",History
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_HISTORY_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/0QKBhrr/51-Viasat-Explore.png",Viasat Explore
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/JQQ83OBHTQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/pLPvnP2/50-Viasat-Nature.png",Viasat Nature
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BN5Npt2/20-Galaxy.png",Galaxy TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/dBcWzTG/16-Sovershenno-Sekretno.png",Soviersienno Siekrietno
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_SOVERSHENNOSEKRETNO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ncj3PQW/90-Nat-Geo-Wild.png",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/ESCMSBZJ8X_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2W8mQ4h/48-National-Geographic.png",National Geographic
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_NATGEO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/b6gdjd0/08-Nauka.png",Nauka 2.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/LWWBCKZAPZ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/1q7jNkf/glazami-turista.png",Glazami turista
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+http://mfe.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/t2vrVf8/zhivaya-planeta.png",Zivaja planieta
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_ZHIVPLANETA_HLS/variant.m3u8?version=2
+#EXTINF:0 group-title="Познавательные",Oruzije
+#EXTGRP:Познавательные
+http://spacetv.in/stream/DIPK8H19CP8/203.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery
+http://147.135.210.90:8081/tv/Discovery/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Science
+http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Love Nature 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/51JcTWV/98-24-tehno.png",24 Tiechno
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/ZIVFRAFR2I_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные",Dikaja ochota HD
+http://spacetv.in/stream/DIPK8H19CP8/274.m3u8
+#EXTINF:0 group-title="Познавательные",ANIMAL PLANET
+#EXTGRP:Познавательные
+http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
+#EXTINF:-1 group-title="Познавательные",VIASAT HISTORY
+http://spacetv.in/stream/DIPK8H19CP8/101.m3u8
+
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/2tv37Dr/81-Eda.png",Jeda HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/BCPKKUK5NT_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/80cZYSJ/67-Zdorovoje-TV.png",Zdorovoje TB
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+http://178.124.183.5/hls/CH_ZDOROVOETV_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/F8TFM9C/75-Kuhnja-TV.png",Kochnia TB
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/EPX2UEHLPK_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/871mLmj/joy-cook.png",Joy Cook
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_JOYCOOK_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/WBZ0J7Y/fashionbox-hd.png",FashionBox HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_FASHIONBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/hdwZMwm/psy21.png",Psichologija 21
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_PSIHOLOGY_HLS/variant.m3u8?version=2
+
+
+
+
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/R35H88m/29-TV3.png" aspect-ratio=16:9,ТВ3-Bielarus'
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/KLQQ9ECGSQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/NY4jTTr/39-Kinopremjera.png",Kinopriemjera
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/zJmfvMm/43-Muzhskoe-Kino.png",Muzskoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/W7LNWHFGTB_HLS/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vc6rSW8/37-Sony-Channel.png",Sony
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Rbc4Njn/36-Sony-Sci-Fi.png",Sony Sci-Fi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/EDVYQYGHF8_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BTwvpDw/41-TV-1000.png",TV 1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/HnPPNzZ/44-Ruskij-Illuzion.png",Russkij illiuzion
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CMV4SNACFQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/pxs9ftt/45-TV-1000-Russkoje-kino.png",TV 1000 Russkoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/PWIKICZUYF_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png",Rodnoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",Kinosiemja
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/FEDXG8XPOR_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wsZLtz7/71-Indijsloe-kino.png",Indijskoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",Nasie novoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",Kinochit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/bm28sFB/74-NST.png",HTC
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/NEZVX5TVZX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/phrhy2K/91-Fox.png",FOX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_FOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/RH1mWX9/92-Fox-Life.png",FOX Life
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_FOXL_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/rp3FgCz/17-Sinema.png",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/g3XtPM6/trashtv.png",Trash
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+http://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Fg2s3kL/Dorama.png",Dorama
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_DORAMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/y849Bbq/kinosat.png",Kinosat
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_KINOSAT_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/h2V4NXy/38-Kinomix.png",Kinomix
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/VVG76MWUGX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",Evrokino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/JEDUS3FS7V_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/x2mM69H/42-Lubimoe-kino.png",Liubimoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино
+https://mfe.svc.ott.zala.by/hls/CH_NASHEKINO_HLS/variant.m3u8?version=2
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="XXX",BRAZZERS TV
+#EXTGRP:XXX
+http://185.101.107.164/BRAZZERS/index.m3u8?token=test
+
+#EXTINF:0 group-title="XXX",JASMIN TV
+#EXTGRP:XXX
+https://ch.iptvmate.net/5e9353ea9497b834bb379b2b.m3u8
+#EXTINF:0 group-title="XXX",NUART HD
+#EXTGRP:XXX
+http://spacetv.in/stream/DIPK8H19CP8/55.m3u8
+
+#EXTINF:0 group-title="XXX",PLAYBOY TV
+#EXTGRP:XXX
+http://spacetv.in/stream/DIPK8H19CP8/56.m3u8
+
+
+#EXTINF:-1 group-title="XXX" parent-code="1234",Russkaja noc'
+#EXTGRP:XXX
+http://spacetv.in/stream/DIPK8H19CP8/54.m3u8
+#EXTINF:-1 group-title="XXX" parent-code="1234",EXXXOTIC
+#EXTGRP:XXX
+http://spacetv.in/stream/DIPK8H19CP8/57.m3u8
+
+#EXTINF:0 group-title="XXX",BLUE HUSTLER RUS (18+)
+#EXTGRP:XXX
+http://5.128.254.228:81/udp/239.1.6.36:1234
+
+
+
+
+
+#EXTINF:-1 group-title="Кино",Subbota!
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://a3569458686-zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/bw2000000/playlist.m3u8?utcstart=1581238800&version=2
+#EXTINF:-1 group-title="Кино",Komiedija
+http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
+
+
+#EXTINF:-1 group-title="Познавательные" tvg-rec="7" timeshift="7",DTX HD
+#EXTGRP:Познавательные
+http://spacetv.in/stream/DIPK8H19CP8/145.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svJgML2/93-M1-Global.png",M-1 Global
+#EXTGRP:Спорт
+http://37.17.12.119:8906/play/a00m
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJBZbMT/motorsporttv.png",Motosportr TB
+#EXTGRP:Спорт
+http://mfe.svc.ott.zala.by/hls/CH_MOTORTV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNCgj6G/fastfunbox-hd.png",Fast&Fun Box
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_FASTNFUNBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",FightBox
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_FIGHTBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/fF3yLNR/97-UFC.png",UFC TB
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Спорт
+https://mfe.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2
+#EXTINF:-1,Red Bull TV
+#EXTGRP:Спорт
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1,Bielarus' 5 HD
+#EXTGRP:Спорт
+https://185-107-80-245.livesports24.online/belarusss5.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/176.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport 2 HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/192.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Eurosport Gold HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/286.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Intersport 1 HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/159.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Intersport 2 HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/191.m3u8
+
+
+#EXTINF:-1 group-title="Спорт",Qazsport
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/72.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport Rossija
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/102.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Extreme Sports
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/148.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 1 HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/234.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sport 2 HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/235.m3u8
+
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Boks TB
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/154.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Motosport TB
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/300.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Setanta Sports HD UA
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/313.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",UFC ТВ HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/279.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",X Sport HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/332.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-rec="7" timeshift="7",Viasat Sport HD
+#EXTGRP:Спорт
+http://spacetv.in/stream/DIPK8H19CP8/333.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FHb11F3/109-1muz.png" aspect-ratio=16:9,Piervyj muzykal'nyj
+#EXTGRP:Музыкальные
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6nJWj3v/30-RU-TV.png",RU.TV
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/XW6AGFSZJ8_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD706VH/34-Europa-plus.png",Europa Plus TV
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/BHH8EKRXPO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjfcwxP/57-Shanson-TV.png",Sanson TB
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLYhfdP/89-TNT-Music.png",THT Music
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/BCJGRB3KAX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Zara
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/DXBSFZDTDG_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDGHdty/360tunebox.png",360 TuneBox
+#EXTGRP:Музыкальные
+https://mfe.svc.ott.zala.by/hls/CH_360TUNEBOX_HLS/variant.m3u8?version=2
+
+
+
+
+
+#EXTINF:-1,Enter Music Television
+#EXTGRP:Музыкальные
+http://autopilot.catcast.tv/content/36007/index.m3u8
+#EXTINF:-1,musikcolabfm
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru:80/hls/163343.m3u8
+#EXTINF:-1,ElW
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=smartlabs
+http://hls.goodgame.ru:80/hls/152922.m3u8
+#EXTINF:-1,Metal TV
+#EXTGRP:Музыкальные
+#EXTVLCOPT:http-user-agent=smartlabs
+http://v1.catcast.me/content/33816/index.m3u8
+#EXTINF:-1,Radio Van 103.0 FM Yerevan
+#EXTGRP:Музыкальные
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1,M2O TV
+#EXTGRP:Музыкальные
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,1 HD
+#EXTGRP:Музыкальные
+https://sc.id-tv.kz/1hd_34_35.m3u8
+#EXTINF:-1,SONG TV Armenia
+#EXTGRP:Музыкальные
+http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1,SONG TV HD (Russia)
+#EXTGRP:Музыкальные
+http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:-1,Sonus FM
+#EXTGRP:Музыкальные
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
+#EXTINF:-1,Piervyj muzykal'nyj BY HD
+#EXTGRP:Музыкальные
+http://rtmp.one.by:1300
+#EXTINF:-1,Piervyj muzykal'nyj BY Rossija
+#EXTGRP:Музыкальные
+http://rtmp.one.by:2200
+#EXTINF:-1,Piervyj muzykal'nyj BY Rossija HD
+#EXTGRP:Музыкальные
+http://rtmp.one.by:2300
+#EXTINF:-1,Radio Chit (Opck)
+#EXTGRP:Музыкальные
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+
+#EXTINF:-1,ACB TV
+#EXTGRP:Музыкальные
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:0,Strana FM HD
+#EXTGRP:Музыкальные
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+
+
+#EXTINF:-1,Hit Music Channel
+#EXTGRP:Музыкальные
+http://hitmusic.hu/hitmusic.m3u8
+#EXTINF:0,Kronehit HD
+#EXTGRP:Музыкальные
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1,Kral HD
+#EXTGRP:Музыкальные
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,Deejay TV
+#EXTGRP:Музыкальные
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
+#EXTINF:-1,Eurodance 90 HD
+#EXTGRP:Музыкальные
+https://eurodance.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1,РORTAL FOXMIX TV
+#EXTGRP:Музыкальные
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1,RETRO MUSIC TV
+#EXTGRP:Музыкальные
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
+#EXTINF:-1,Retro Music
+#EXTGRP:Музыкальные
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1,Padio Sanson TB HD
+#EXTGRP:Музыкальные
+http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
+#EXTINF:-1,MuzSojuz
+#EXTGRP:Музыкальные
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1,Radio Chit TB
+#EXTGRP:Музыкальные
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1,Radio Capital
+#EXTGRP:Музыкальные
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:0,Relaks
+#EXTGRP:Музыкальные
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocko" tvg-logo="https://i.imgur.com/QpOUInQ.png" group-title="Музыкальные",Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Expres" tvg-logo="https://i.imgur.com/yHMMTrz.png" group-title="Музыкальные",Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Gold" tvg-logo="https://i.imgur.com/g1uaYwu.jpg" group-title="Музыкальные",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko STAR" tvg-logo="https://i.imgur.com/YgqgU3K.png" group-title="Музыкальные",Ocko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6f1brQ/24-TNT-Int.png",THT
+#EXTGRP:Развлекательные
+https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cw0JLfX/56-Sarafan.png",Sarafan
+#EXTGRP:Развлекательные
+https://mfe.svc.ott.zala.by/hls/Y9GP8UFTZO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKfDzrS/83-Kvartal-TV.png",KVARTAL TV
+#EXTGRP:Развлекательные
+https://mfe.svc.ott.zala.by/hls/CH_KVARTALTV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6FCNtNm/105-KVN.png",KBH TB
+#EXTGRP:Развлекательные
+http://37.17.12.118:8905/play/a00j
+
+
+
+
+#EXTINF:-1,1+1 HD
+#EXTGRP:Украинские
+http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
+#EXTINF:-1,2+2
+#EXTGRP:Украинские
+http://spacetv.in/stream/DIPK8H19CP8/173.m3u8
+#EXTINF:-1,Уніан
+#EXTGRP:Украинские
+https://185-107-80-245.livesports24.online/uniantv.m3u8
+#EXTINF:-1,Интер
+#EXTGRP:Украинские
+http://188.35.9.11:11031/z
+#EXTINF:-1,24 канал HD
+#EXTGRP:Украинские
+http://streamvideol1.luxnet.ua/news24/news24.stream/chunklist.m3u8
+#EXTINF:-1,НЛО HD
+#EXTGRP:Украинские
+http://spacetv.in/stream/DIPK8H19CP8/344.m3u8
+#EXTINF:-1,К1
+#EXTGRP:Украинские
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,НТК
+#EXTGRP:Украинские
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,Bambarbia TV HD
+#EXTGRP:Украинские
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,TV 5
+#EXTGRP:Украинские
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
+#EXTINF:-1,UA TV HD
+#EXTGRP:Украинские
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,34 Канал
+#EXTGRP:Украинские
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1,UKR Live HD
+#EXTGRP:Украинские
+http://95.67.12.149:9005
+#EXTINF:-1,Здоровье
+#EXTGRP:Украинские
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1,Прямый
+#EXTGRP:Украинские
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,Рудана FHD
+#EXTGRP:Украинские
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1,Объектив 59
+#EXTGRP:Украинские
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1,Правда ТУТ HD
+#EXTGRP:Украинские
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,ТIС (Одесса)
+#EXTGRP:Украинские
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod240/playlist.m3u8
+#EXTINF:-1,Балта ТВ
+#EXTGRP:Украинские
+http://194.50.51.34/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="34news-ua" tvg-name="34 Kanal" tvg-logo="https://i.imgur.com/0buhFKQ.png" group-title="Украинские",34 Kanal
+https://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="7kanal-odessa" tvg-name="7 Kanal" tvg-logo="https://i.imgur.com/nJvGdoj.jpg" group-title="Украинские",7 Kanal
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A1 Odessa" tvg-logo="https://i.imgur.com/0DUi5fO.jpg" group-title="Украинские",A1 Odessa
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="atr-ua" tvg-name="ATR" tvg-logo="https://i.imgur.com/tKmYWYH.png" group-title="Украинские",ATR
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BamBarBia TV" tvg-logo="https://i.imgur.com/LIk85IA.png" group-title="Украинские",BamBarBia TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BTB" tvg-logo="https://i.imgur.com/JG493Vn.png" group-title="Украинские",BTB
+http://video.vtvplus.com.ua:81/hls/online/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Che Pe Info" tvg-logo="https://i.imgur.com/7Ycv3bL.png" group-title="Украинские",CP Info
+http://109.68.40.67/life/magnolia_3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Current Time" tvg-logo="https://i.imgur.com/FbKbeGo.png" group-title="Украинские",Nastojascieje vriemia
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 tvg-id="chern-promin" tvg-name="Chernivtsi Promin" tvg-logo="https://i.imgur.com/IbwmfzF.png" group-title="Украинские",Cierniveckij promon'
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 tvg-id="cnl-eu" tvg-name="CNL Europa" tvg-logo="https://i.imgur.com/lozzdS7.png" group-title="Украинские",CNL Europa
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_3.m3u8
+#EXTINF:-1 tvg-id="donecchina-tv" tvg-name="Donezk TV" tvg-logo="https://i.imgur.com/dHqUHfw.png" group-title="Украинские",Donezk TV
+http://stream.dn.ua/hls/stream.m3u8
+#EXTINF:-1 tvg-id="dumskaya" tvg-name="Duma TV" tvg-logo="https://i.imgur.com/KlPqxlo.png" group-title="Украинские",Dumskaja TV
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/dumska/dumska720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ewtn-tv" tvg-name="EWTN" tvg-logo="https://i.imgur.com/VHktAEm.png" group-title="Украинские",EWTN
+http://bogtvhdlive-f.akamaihd.net/i/main_1@79148/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GIT" tvg-logo="https://i.imgur.com/v5J8tiS.png" group-title="Украинские",ГІТ
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://i.imgur.com/Rc6UGkb.jpg" group-title="Украинские",GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="nadia" tvg-name="Hope Channel" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Украинские",Hope Channel
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/master.m3u8
+#EXTINF:-1 tvg-id="ntk-kz" tvg-name="HTK" tvg-logo="https://i.imgur.com/on0TfJ6.png" group-title="Украинские",HTK
+http://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 tvg-id="idfashion" tvg-name="ID Fashion" tvg-logo="https://i.imgur.com/Y50tmIN.png" group-title="Украинские",ID Fashion
+https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8?_=1602581479
+#EXTINF:-1 tvg-id="" tvg-name="Izmail TV" tvg-logo="https://i.imgur.com/mpMjj7o.png" group-title="Украинские",Izmail TV
+https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:-1 tvg-id="k1-ua" tvg-name="K1" tvg-logo="https://i.imgur.com/qhRurXG.png" group-title="Украинские",K1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 tvg-id="lale" tvg-name="Lale" tvg-logo="https://i.imgur.com/Nv6P5Ds.png" group-title="Украинские",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 tvg-id="m2-ua" tvg-name="M2" tvg-logo="https://i.imgur.com/IwUc4pC.png" group-title="Украинские",M2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-id="micto-tv" tvg-name="Micto" tvg-logo="https://i.imgur.com/p7bzHf4.png" group-title="Украинские",Micto
+http://93.78.206.172:8080/stream3/stream.m3u8
+#EXTINF:-1 tvg-id="millet-tv" tvg-name="Millet" tvg-logo="https://i.imgur.com/vdXsJgo.png" group-title="Украинские",Millet
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 tvg-id="mostvideo" tvg-name="MostVideo TV" tvg-logo="https://i.imgur.com/0w7uJUT.jpg" group-title="Украинские",MostVideo TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 tvg-id="nta-ua" tvg-name="NTA" tvg-logo="https://i.imgur.com/AGzWPZv.png" group-title="Украинские",NTA
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="olvia-tv" tvg-name="Olvia Sat Odessa" tvg-logo="https://i.imgur.com/khlZ532.png" group-title="Украинские",Olvia Sat Odessa
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1 tvg-id="oplot-tv" tvg-name="Oplot" tvg-logo="https://i.imgur.com/DfuFt9W.png" group-title="Украинские",Oplot
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1 tvg-id="oplot2-tv" tvg-name="Oplot 2" tvg-logo="https://i.imgur.com/DfuFt9W.png" group-title="Украинские",Oplot 2
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 tvg-id="orbita-tv" tvg-name="Orbita" tvg-logo="https://i.imgur.com/coheUax.png" group-title="Украинские",Orbita
+http://ftp.orbita.dn.ua/hls/orbita.m3u8
+#EXTINF:-1 tvg-id="pershy-zaxidny" tvg-name="Pershiy Zakhidniy" tvg-logo="https://i.imgur.com/yifGKcA.png" group-title="Украинские",Pershiy Zakhidniy
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perviy Delovoy" tvg-logo="https://i.imgur.com/rIaWxpn.png" group-title="Украинские",Perviy Delovoy
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perviy Gorodskoy Krivoy" tvg-logo="https://i.imgur.com/Em3J7XO.jpg" group-title="Украинские",Perviy Gorodskoy Krivoy
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perviy Gorodskoy Odessa" tvg-logo="https://i.imgur.com/Em3J7XO.jpg" group-title="Украинские",Perviy Gorodskoy Odessa
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="pravdatyt" tvg-name="Pravda TYT" tvg-logo="https://i.imgur.com/p5MSKuW.jpg" group-title="Украинские",Pravda TYT
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pryamyi" tvg-logo="https://i.imgur.com/5rtPDpn.png" group-title="Украинские",Pryamyi
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="reportior" tvg-name="Reportior Odessa" tvg-logo="https://i.imgur.com/wrBhTpr.jpg" group-title="Украинские",Reportior Odessa
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="rudana" tvg-name="Rudana" tvg-logo="https://i.imgur.com/mu81qSc.png" group-title="Украинские",Rudana
+https://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Simon" tvg-logo="https://i.imgur.com/RaVchcn.jpg" group-title="Украинские",Simon
+http://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBN" tvg-logo="https://i.imgur.com/DHwhdRF.png" group-title="Украинские",TBN
+http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIS TV" tvg-logo="https://i.imgur.com/aC01GvC.png" group-title="Украинские",TIS TV
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 tvg-id="treti-cifrovoj" tvg-name="Treti Cifrovoj" tvg-logo="https://i.imgur.com/nwRBxTR.png" group-title="Украинские",Treti Cifrovoj
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1 tvg-id="tv5-zaporozhie" tvg-name="TV5 Zaporozhye" tvg-logo="https://i.imgur.com/ixKcTad.png" group-title="Украинские",TV 5 Zaporozhye
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1 tvg-id="tva-ua" tvg-name="TVA Czernowitz" tvg-logo="https://i.imgur.com/bUz2IP9.png" group-title="Украинские",TVA Czernowitz
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="yuzhnaya-volna" tvg-name="Yuzhnaya Volna" tvg-logo="https://i.imgur.com/8gSP6aH.png" group-title="Украинские",Yuzhnaya Volna
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zdorovood TV Odessa" tvg-logo="https://i.imgur.com/VqDD7OE.png" group-title="Украинские",Zdorovood  TV Odessa
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/zdorovood/zdorovo/playlist.m3u8
+#EXTINF:-1 tvg-id="z-zapor" tvg-name="Z Zaporozhye" tvg-logo="https://i.imgur.com/f0nOjL8.png" group-title="Украинские",Z Zaporozhye
+https://stream.ztv.zp.ua/hls/live.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/TtWftQN/46-Detskij-mir.png",Dietskij mir
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/THfzzd6/55-2x2.png",2x2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/EU9VTLDQCN_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/9GXnkJW/07-Multilandija.png",Mul'tilandija
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/FBYQ8KG5HM_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/0f9nhyy/53-Gulli-Girl.png",Gulli Girl
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/7FFGONY2N8_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/PF53p7F/77-Tiji.png",Tiji
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/Q0HVVEIKSQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/16mfLm3/11-Mult.png",Mul't
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png",CTC Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6rMgxpb/47-Detskij.png",Dietskij
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_UNIKUM_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Cvy8hyL/boomerang.png",Boomerang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_BOOMERANG_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6mgtTgC/CN.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_CARTOON_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/dWR82Qr/sovmultf.png",Sovetskije mul'tfil'my
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские
+https://mfe.svc.ott.zala.by/hls/CH_SOVMULT_HLS/variant.m3u8?version=2
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nickelodeon HD
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/127.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Kanal Disney
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/118.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Karusiel'
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/120.m3u8
+#EXTINF:-1 group-title="Детские",Мульт и музыка
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/82.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",JimJam
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/150.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Nick Jr
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/220.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",V gostiach u skazki
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/93.m3u8
+#EXTINF:-1 group-title="Детские" tvg-rec="7" timeshift="7",Kanal O!
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/60.m3u8
+#EXTINF:-1 group-title="Детские",Ani
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/306.m3u8
+#EXTINF:-1 group-title="Детские",Piksiel'
+#EXTGRP:Детские
+http://spacetv.in/stream/DIPK8H19CP8/323.m3u8
+
+
+
+#EXTINF:-1,KINDER TV
+#EXTGRP:Детские
+https://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1,Ryzij
+#EXTGRP:Детские
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,Smajlik TB HD
+#EXTGRP:Детские
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+#EXTINF:-1,Gravity Fouls
+#EXTGRP:Детские
+https://autopilot.catcast.tv/content/38105/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Fg2s3kL/Dorama.png",Dorama
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_DORAMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/R35H88m/29-TV3.png" aspect-ratio=16:9,ТВ3-Bielarus'
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/KLQQ9ECGSQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/wsZLtz7/71-Indijsloe-kino.png",Indijskoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_INDIYATV_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/NY4jTTr/39-Kinopremjera.png",Kinopriemjera
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_KINOPREMERA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/DQXpBZy/63-Kinosemja.png",Kinosiemja
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/FEDXG8XPOR_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/zJmfvMm/43-Muzhskoe-Kino.png",Muzskoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/W7LNWHFGTB_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/TtT1gmy/58-Rodnoje-kino.png",Rodnoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_NTVPLUSNASHEKINO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/q9WVTbx/73-Kinohit.png",Kinochit
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/HDOHSSZQCP_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/h2V4NXy/38-Kinomix.png",Kinomiks
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/VVG76MWUGX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6BFNjRL/72-Nashe-novoe-kino.png",Nasie novoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/UVPWPN2KTN_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vc6rSW8/37-Sony-Channel.png",Sony
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/VPRSUR2WN2_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Rbc4Njn/36-Sony-Sci-Fi.png",Sony Sci-Fi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/EDVYQYGHF8_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BTwvpDw/41-TV-1000.png",TV 1000
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/6WMZMUEWGN_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/pxs9ftt/45-TV-1000-Russkoje-kino.png",TV 1000 Russkoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/PWIKICZUYF_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/HnPPNzZ/44-Ruskij-Illuzion.png",Pusskij illiuzion
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CMV4SNACFQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/bm28sFB/74-NST.png",HCT
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/g3XtPM6/trashtv.png",Trash
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+http://mfe.svc.ott.zala.by/hls/CH_TRASH_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/phrhy2K/91-Fox.png",FOX
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_FOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/RH1mWX9/92-Fox-Life.png",FOX Life
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_FOXL_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/rp3FgCz/17-Sinema.png",Cinema
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_CINEMA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/y849Bbq/kinosat.png",Kinosat
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_KINOSAT_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/263PbNg/40-Evrokino.png",Evrokino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/JEDUS3FS7V_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/x2mM69H/42-Lubimoe-kino.png",Liubimoje kino
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Кино (stable)
+https://mfe.svc.ott.zala.by/hls/CH_NASHEKINO_HLS/variant.m3u8?version=2
+
+#EXTINF:-1 group-title="Кино (stable)",Sierial UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино (stable)",Kino UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/bw6000000/variant.m3u8?version=2
+#EXTINF:-1 group-title="Кино (stable)",Ultra HD Cinema
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/2tQcTtj/80-Ohotnik-i-rybolov.png",Ochotnik i rybolov HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/4FDNBEDGFV_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BgtWkBd/docubox-hd.png",DocuBox HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_DOCUBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/x2jQMqf/103-Moja-Planeta.png",Moja planieta
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/FV47BRVQW4_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/dDtYBfr/59-Drajv.png",Драйв
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/6UTCEG6ATO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/cvKYWFL/61-Ohota-i-Rybalka.png",Ochota i rybalka
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/VF5ELDF8AL_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/yyW6QW4/52-History.png",History
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_HISTORY_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/0QKBhrr/51-Viasat-Explore.png",Viasat Explore
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/JQQ83OBHTQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/pLPvnP2/50-Viasat-Nature.png",Viasat Nature
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/BN3FTDY3T8_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/BN5Npt2/20-Galaxy.png",Galaxy TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_GALAXY_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/dBcWzTG/16-Sovershenno-Sekretno.png",Soviersienno Siekrietno
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_SOVERSHENNOSEKRETNO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/ncj3PQW/90-Nat-Geo-Wild.png",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/ESCMSBZJ8X_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2W8mQ4h/48-National-Geographic.png",National Geographic
+#EXTGRP:Познавательные
+https://mfe.svc.ott.zala.by/hls/CH_NATGEO_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/b6gdjd0/08-Nauka.png",Nauka 2.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/LWWBCKZAPZ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/1q7jNkf/glazami-turista.png",Glazami turista
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+http://mfe.svc.ott.zala.by/hls/CH_GLAZTUR_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/t2vrVf8/zhivaya-planeta.png",Zivaja planieta
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_ZHIVPLANETA_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/2tv37Dr/81-Eda.png",Jeda HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/BCPKKUK5NT_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/80cZYSJ/67-Zdorovoje-TV.png",Zdorovoje TB
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+http://178.124.183.5/hls/CH_ZDOROVOETV_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/F8TFM9C/75-Kuhnja-TV.png",Kuchnia TB
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/EPX2UEHLPK_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/871mLmj/joy-cook.png",Joy Cook
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_JOYCOOK_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/WBZ0J7Y/fashionbox-hd.png",FashionBox HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_FASHIONBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/hdwZMwm/psy21.png",Psichologija 21
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_PSIHOLOGY_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/51JcTWV/98-24-tehno.png",24 Tiechno
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Познавательные (stable)
+https://mfe.svc.ott.zala.by/hls/ZIVFRAFR2I_HLS/variant.m3u8?version=2
+
+
+#EXTINF:-1 group-title="Познавательные (stable)",Love Nature 4K
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
+#EXTINF:-1 group-title="Познавательные (stable)",Russkij ekstrim UHD
+#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8?version=2
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/svJgML2/93-M1-Global.png",M-1 Global
+#EXTGRP:Спорт (stable)
+http://37.17.12.119:8906/play/a00m
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wJBZbMT/motorsporttv.png",Motosport TB
+#EXTGRP:Спорт (stable)
+http://mfe.svc.ott.zala.by/hls/CH_MOTORTV_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MNCgj6G/fastfunbox-hd.png",Fast&Fun Box
+#EXTGRP:Спорт (stable)
+https://mfe.svc.ott.zala.by/hls/CH_FASTNFUNBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tL4Rytq/fightbox-hd.png",FightBox
+#EXTGRP:Спорт (stable)
+https://mfe.svc.ott.zala.by/hls/CH_FIGHTBOX_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/fF3yLNR/97-UFC.png",UFC TB
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Спорт (stable)
+https://mfe.svc.ott.zala.by/hls/CH_UFC_HLS/variant.m3u8?version=2
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FHb11F3/109-1muz.png" aspect-ratio=16:9,Piervyj muzykal'nyj
+#EXTGRP:Музыкальные (stable)
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6nJWj3v/30-RU-TV.png",RU.TV
+#EXTGRP:Музыкальные (stable)
+https://mfe.svc.ott.zala.by/hls/XW6AGFSZJ8_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KD706VH/34-Europa-plus.png",Europa Plus TV
+#EXTGRP:Музыкальные (stable)
+https://mfe.svc.ott.zala.by/hls/BHH8EKRXPO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pjfcwxP/57-Shanson-TV.png",Sanson TB
+#EXTGRP:Музыкальные (stable)
+https://mfe.svc.ott.zala.by/hls/3K2MEWVSDF_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZLYhfdP/89-TNT-Music.png",ТНТ Music
+#EXTGRP:Музыкальные (stable)
+https://mfe.svc.ott.zala.by/hls/BCJGRB3KAX_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK00h8T/27-Zhara.png",Zara
+#EXTGRP:Музыкальные (stable)
+https://mfe.svc.ott.zala.by/hls/DXBSFZDTDG_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HDGHdty/360tunebox.png",360 TuneBox
+#EXTGRP:Музыкальные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_360TUNEBOX_HLS/variant.m3u8?version=2
+
+#EXTINF:-1 tvg-id="" tvg-name="Ocko" tvg-logo="https://i.imgur.com/QpOUInQ.png" group-title="Музыкальные (stable)",Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Expres" tvg-logo="https://i.imgur.com/yHMMTrz.png" group-title="Музыкальные (stable)",Ocko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko Gold" tvg-logo="https://i.imgur.com/g1uaYwu.jpg" group-title="Музыкальные (stable)",Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ocko STAR" tvg-logo="https://i.imgur.com/YgqgU3K.png" group-title="Музыкальные (stable)",Ocko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6f1brQ/24-TNT-Int.png",THT
+#EXTGRP:Развлекательные (stable)
+https://mfe.svc.ott.zala.by/hls/MVNP5DA4U9_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Cw0JLfX/56-Sarafan.png",Sarafan
+#EXTGRP:Развлекательные (stable)
+https://mfe.svc.ott.zala.by/hls/Y9GP8UFTZO_HLS/variant.m3u8?version=2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKfDzrS/83-Kvartal-TV.png",KVARTAL TV
+#EXTGRP:Развлекательные (stable)
+https://mfe.svc.ott.zala.by/hls/CH_KVARTALTV_HLS/variant.m3u8?version=2
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/TtWftQN/46-Detskij-mir.png",Dietskij mir
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/9F67L3DGIF_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/THfzzd6/55-2x2.png",2x2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/EU9VTLDQCN_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/9GXnkJW/07-Multilandija.png",Mul'tilandija
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/FBYQ8KG5HM_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/0f9nhyy/53-Gulli-Girl.png",Gulli Girl
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/7FFGONY2N8_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/PF53p7F/77-Tiji.png",Tiji
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/Q0HVVEIKSQ_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/16mfLm3/11-Mult.png",Mul't
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/5MWF7XUWZI_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/cDFHQ8y/21-CTC.png",СТС Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/CH_CTCKIDS_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6rMgxpb/47-Detskij.png",Dietskij
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/CH_UNIKUM_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/Cvy8hyL/boomerang.png",Boomerang
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/CH_BOOMERANG_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/6mgtTgC/CN.png",Cartoon Network
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/CH_CARTOON_HLS/variant.m3u8?version=2
+#EXTINF:-1 catchup="append" catchup-days="2" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://i.ibb.co/dWR82Qr/sovmultf.png",Sovetskije mul'tfil'my
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTGRP:Детские (stable)
+https://mfe.svc.ott.zala.by/hls/CH_SOVMULT_HLS/variant.m3u8?version=2
+
+
+
+
+
+
+
+
+
